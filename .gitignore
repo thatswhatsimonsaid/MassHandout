@@ -1,47 +1,15 @@
-(base) simondn@Simons-MacBook-Air-6 MassHandout % git push
-Enumerating objects: 17, done.
-Counting objects: 100% (17/17), done.
-Delta compression using up to 10 threads
-Compressing objects: 100% (11/11), done.
-Writing objects: 100% (11/11), 20.11 KiB | 20.11 MiB/s, done.
-Total 11 (delta 3), reused 0 (delta 0), pack-reused 0 (from 0)
-remote: Resolving deltas: 100% (3/3), completed with 3 local objects.
-To https://github.com/thatswhatsimonsaid/RashomonActiveLearning
-   49be54bad..d72a3ca60  main -> main
-(base) simondn@Simons-MacBook-Air-6 MassHandout % rm -rf .git
-git init
-git branch -M main
-hint: Using 'master' as the name for the initial branch. This default branch name
-hint: will change to "main" in Git 3.0. To configure the initial branch name
-hint: to use in all of your new repositories, which will suppress this warning,
-hint: call:
-hint:
-hint: 	git config --global init.defaultBranch <name>
-hint:
-hint: Names commonly chosen instead of 'master' are 'main', 'trunk' and
-hint: 'development'. The just-created branch can be renamed via this command:
-hint:
-hint: 	git branch -m <name>
-hint:
-hint: Disable this message with "git config set advice.defaultBranchName false"
-Initialized empty Git repository in /Users/simondn/Documents/Church/MassHandout/.git/
-(base) simondn@Simons-MacBook-Air-6 MassHandout % git remote add origin mass_handouts.git
-git add .
-git commit -m "Initial modularized mass handout code"
-git push -u origin main
-[main (root-commit) 8619c57] Initial modularized mass handout code
- 7 files changed, 968 insertions(+)
- create mode 100644 .DS_Store
- create mode 100644 MassHandout.ipynb
- create mode 100644 Mass_Booklet_Imposed.docx
- create mode 100644 __pycache__/parsers.cpython-311.pyc
- create mode 100644 __pycache__/scrapers.cpython-311.pyc
- create mode 100644 __pycache__/word_generator.cpython-311.pyc
- create mode 100644 ~$ss_Booklet_Imposed.docx
-fatal: 'mass_handouts.git' does not appear to be a git repository
-fatal: Could not read from remote repository.
+# Python / Virtual Environments
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
 
-Please make sure you have the correct access rights
-and the repository exists.
-(base) simondn@Simons-MacBook-Air-6 MassHandout % 
+# Office Documents / Generated Output
+*.docx
+*.pdf
 
+# OS Files / IDEs
+.DS_Store
+.vscode/
