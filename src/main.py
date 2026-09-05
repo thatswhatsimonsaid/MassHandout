@@ -8,13 +8,13 @@ from src.builder import create_booklet_docx
 async def main():
     """Orchestrates async USCCB scraping, dynamic Thanh Linh scraping, data preparation, and Word document booklet generation."""
     user_inputs = {
-        "date": "100226",
+        "date": "092926",
         "hymns": {},
-        "reading1": {"option_index": 0},
-        "psalm": {"option_index": 0},
-        "reading2": {"option_index": 0},
-        "alleluia": {"option_index": 0},
-        "gospel": {"option_index": 0}
+        "reading1": {"lang": "eng", "option_index": 0},
+        "psalm":    {"lang": "viet", "option_index": 0},
+        "reading2": {"lang": "eng", "option_index": 0},
+        "alleluia": {"lang": "viet", "option_index": 0},
+        "gospel":   {"lang": "eng", "option_index": 0}
     }
     date_str = user_inputs["date"]
 
