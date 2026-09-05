@@ -129,8 +129,11 @@ def add_hymn_section(doc, label, hymn_data):
 
 
 ### CREATE BOOKLET DOCX ###
-def create_booklet_docx(user_inputs, final_data, filename="Mass_Booklet_Imposed.docx"):
-    """Orchestrates the creation and imposition of the 4-panel mass booklet Word document across pages and columns."""
+def create_booklet_docx(user_inputs, final_data, filename=None):
+    """Creates the Word document booklet, dynamically naming the file by date if not explicitly provided."""
+    if filename is None:
+        date_str = user_inputs.get("date", "latest")
+        filename = f"Mass_Booklet_{date_str}.docx"
     doc = Document()
     
     section = doc.sections[0]

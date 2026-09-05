@@ -1,14 +1,14 @@
 ### Packages ###
 import asyncio
-from scrapers import scrape_usccb_async, get_thanhlinh_url_dynamically, scrape_thanhlinh
-from parsers import prepare_template_data
-from builder import create_booklet_docx
+from src.scrapers import scrape_usccb_async, get_thanhlinh_url_dynamically, scrape_thanhlinh
+from src.parsers import prepare_template_data
+from src.builder import create_booklet_docx
 
 ### MAIN ENTRY POINT ###
 async def main():
     """Orchestrates async USCCB scraping, dynamic Thanh Linh scraping, data preparation, and Word document booklet generation."""
     user_inputs = {
-        "date": "100126",
+        "date": "100226",
         "hymns": {},
         "reading1": {"option_index": 0},
         "psalm": {"option_index": 0},

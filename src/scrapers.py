@@ -11,7 +11,6 @@ from parsers import SECTION_KEYWORDS
 
 ### CITATION FORMAT VALIDATOR ###
 def _looks_like_citation(text):
-    """Validates whether a given text string matches a standard scripture citation pattern."""
     clean = text.strip()
     return bool(
         re.match(r'^(cf\.\s*)?[1-3]?\s*[A-Z][a-zA-Z]+\.?\s+\d+(:\d+)?([-,]\s*\d+)*[a-z]?$', clean) or
@@ -21,7 +20,6 @@ def _looks_like_citation(text):
 
 ### USCCB HTML PARSER ###
 def _parse_usccb_html(html_content):
-    """Parses raw USCCB HTML content to extract feast day titles and structured scripture sections."""
     eng_dict = {
         "feast_day": "Daily Readings",
         "reading1": [], "psalm": [], "reading2": [], "alleluia": [], "gospel": []
@@ -123,7 +121,6 @@ def _parse_usccb_html(html_content):
     save_current_option()
     return eng_dict
 
-
 ### ASYNCHRONOUS USCCB SCRAPER ###
 async def async_scrape_usccb(date_str):
     """Asynchronously fetches and loads daily scripture readings from the USCCB website for a given date."""
@@ -162,7 +159,6 @@ async def async_scrape_usccb(date_str):
 
 ### THANHLINH VIETNAMESE SCRAPER ###
 def scrape_thanhlinh(url):
-    """Scrapes Vietnamese scripture readings from a specified ThanhLinh URL endpoint."""
     headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'}
     viet_dict = {"reading1": [], "psalm": [], "reading2": [], "alleluia": [], "gospel": []}
     try:
@@ -268,5 +264,7 @@ async def scrape_usccb_async(date_str):
             return empty
         finally:
             await browser.close()
+
+    return _parse_usccb_html(html_content)
 
     return _parse_usccb_html(html_content)

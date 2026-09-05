@@ -12,4 +12,6 @@ ENV/
 
 # OS Files / IDEs
 .DS_Store
-.vscode/
+.vscode/venv/
+.venv/
+.DS_Store
