@@ -27,6 +27,14 @@ Automated web scrapers can make errors! They can (and will!) miss formatting nua
 
 ## How to Use It 🚀
 
+### 0. Customize Your Settings (Before You Run!)
+Before running either script, make sure to update your settings inside the **`config/`** folder to match your event and preferences:
+* **`date`**: Enter your target Mass date in `MMDDYY` format.
+* **`organization`**: Type the name of your church, community, or group.
+* **`event_name`**: Specify the name of the special Mass or event (e.g., Sunday Mass, Feast Day).
+* **`hymns`**: Customize your titles, choruses, and verses for the opening, offertory, communion, and closing/recessional songs.
+* **`reading1`, `psalm`, `reading2`, `alleluia`, `gospel`**: Set your preferred languages (`"eng"` for USCCB English readings or `"viet"` for Thanh Linh Vietnamese readings) and choose your option index if there are multiple choices.
+
 ### 1. Create a Single Booklet (Recommended!)
 
 For everyday use, simply run a single generation:
