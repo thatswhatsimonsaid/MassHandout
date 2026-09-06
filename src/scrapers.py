@@ -6,7 +6,7 @@ from datetime import datetime
 import requests
 from bs4 import BeautifulSoup
 from playwright.async_api import async_playwright
-from parsers import SECTION_KEYWORDS
+from .parsers import SECTION_KEYWORDS
 
 
 ### CITATION FORMAT VALIDATOR ###
@@ -232,39 +232,58 @@ def get_thanhlinh_url_dynamically(date_str):
         print(f"  -> Offset calculation warning: {e}")
         return "https://thanhlinh.net/loi-chua-587"
 
-
 async def scrape_usccb_async(date_str):
-    """Asynchronously scrapes USCCB readings for a given MMDDYY date string."""
+    """Fetches daily scripture readings from the USCCB website using requests to avoid cluster headless browser missing library errors."""
     url = f"https://bible.usccb.org/bible/readings/{date_str}.cfm"
     empty = {"feast_day": "Daily Readings", "reading1": [], "psalm": [], "reading2": [], "alleluia": [], "gospel": []}
     
-    async with async_playwright() as p:
-        browser = await p.chromium.launch(
-            headless=True,
-            args=["--disable-blink-features=AutomationControlled"]
-        )
-        context = await browser.new_context(
-            user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
-        )
-        page = await context.new_page()
+    headers = {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36'
+    }
+    
+    try:
+        print(f"  -> Fetching USCCB via requests for {date_str}...")
+        response = requests.get(url, headers=headers, timeout=15)
+        response.raise_for_status()
+        html_content = response.text
+    except Exception as e:
+        print(f"  -> Error loading USCCB page: {e}")
+        return empty
+
+    return _parse_usccb_html(html_content)
+
+# async def scrape_usccb_async(date_str):
+#     """Asynchronously scrapes USCCB readings for a given MMDDYY date string."""
+#     url = f"https://bible.usccb.org/bible/readings/{date_str}.cfm"
+#     empty = {"feast_day": "Daily Readings", "reading1": [], "psalm": [], "reading2": [], "alleluia": [], "gospel": []}
+    
+#     async with async_playwright() as p:
+#         browser = await p.chromium.launch(
+#             headless=True,
+#             args=["--disable-blink-features=AutomationControlled"]
+#         )
+#         context = await browser.new_context(
+#             user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+#         )
+#         page = await context.new_page()
         
-        try:
-            print(f"  -> Navigating to USCCB for {date_str}...")
-            await page.goto(url, wait_until="networkidle", timeout=25000)
-            await page.wait_for_timeout(3000)
+#         try:
+#             print(f"  -> Navigating to USCCB for {date_str}...")
+#             await page.goto(url, wait_until="networkidle", timeout=25000)
+#             await page.wait_for_timeout(3000)
             
-            title = await page.title()
-            if "checking connection" in title.lower() or "cloudflare" in title.lower():
-                print("  -> Encountered connection check, waiting longer...")
-                await page.wait_for_timeout(5000)
+#             title = await page.title()
+#             if "checking connection" in title.lower() or "cloudflare" in title.lower():
+#                 print("  -> Encountered connection check, waiting longer...")
+#                 await page.wait_for_timeout(5000)
                 
-            html_content = await page.content()
-        except Exception as e:
-            print(f"  -> Error loading USCCB page: {e}")
-            return empty
-        finally:
-            await browser.close()
+#             html_content = await page.content()
+#         except Exception as e:
+#             print(f"  -> Error loading USCCB page: {e}")
+#             return empty
+#         finally:
+#             await browser.close()
 
-    return _parse_usccb_html(html_content)
+#     return _parse_usccb_html(html_content)
 
-    return _parse_usccb_html(html_content)
+#     return _parse_usccb_html(html_content)
