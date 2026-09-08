@@ -57,10 +57,14 @@ However, this configuration is provided primarily as an option for quality assur
 
 ---
 
-##### *Leave the Mass, live the Mass!*
+## Thank You 🙏
 
+Thank you for using this tool, and THANK YOU for taking the care to ensuring a beautiful and sacred Mass. Please do not hesitate to email me with questions or comments! I would LOVE to hear how you are using this tool, and listen to your insights.
+
+*When you leave the Mass, live the Mass,*
 <br>
 <p style="margin: 0; font-family: sans-serif; font-size: 14px; color: #111;"><b>Tr. John Paul II Nguyễn Dovan Simon</b></p>
-<!-- <p style="margin: 2px 0 2px 0; font-family: sans-serif; font-size: 13px; color: #444;">Ủy Viên Phụng Vụ Ban Chấp Hành Trung Ương 2026-2030</p> -->
 <p style="margin: 0; font-family: sans-serif; font-size: 13px; color: #555;"><a href="mailto:simon.nguyen1@veym.net" style="color: #0056b3; text-decoration: underline;">simon.nguyen1@veym.net</a></p>
 This website is a personal project and not endorsed by VEYM.
+
+<!-- <p style="margin: 2px 0 2px 0; font-family: sans-serif; font-size: 13px; color: #444;">Ủy Viên Phụng Vụ Ban Chấp Hành Trung Ương 2026-2030</p> -->
