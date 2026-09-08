@@ -61,7 +61,7 @@ However, this configuration is provided primarily as an option for quality assur
 
 Thank you for using this tool, and **THANK YOU** for taking the care to ensuring a beautiful and sacred Mass. It is my hope that this tool will allow others to [actively participate](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19631204_sacrosanctum-concilium_en.html#:~:text=II.%20The%20Promotion%20of%20Liturgical%20Instruction%20and%20Active%20Participation) at Mass. Please do not hesitate to email me with questions or comments! I would LOVE to hear how you are using this tool, and listen to your insights.
 
-<div style="font-family: sans-serif; line-height: 0.5; font-size: 13px; color: #555;">
+<div style="font-family: sans-serif; line-height: 1; font-size: 13px; color: #555;">
   <p style="margin: 0; font-style: italic;">Leave the Mass, live the Mass!</p>
   <p style="margin: 0; font-size: 14px; color: #111;"><b>Tr. John Paul II Nguyễn Dovan Simon</b></p>
   <p style="margin: 0;"><a href="mailto:simon.nguyen1@veym.net" style="color: #0056b3; text-decoration: underline;">simon.nguyen1@veym.net</a></p>
