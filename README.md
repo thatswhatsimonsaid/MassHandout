@@ -12,7 +12,7 @@ Welcome! This friendly tool helps you quickly and easily create beautiful, ready
 
 ## ⚠️ Important Note on Quality
 
-Technology is never perfect. The automated web scrapers can (and will!) miss formatting nuancess or layout updates on the source websites. **Please carefully review and proofread every generated booklet and reformat as needed before printing or using it for Mass.**
+Technology is never perfect. The automated web scrapers can (and will!) miss formatting nuancess or layout updates on the source websites. **Please carefully review, proofread, and reformat every generated booklet as needed before printing or using it for Mass.**
 
 ---
 
