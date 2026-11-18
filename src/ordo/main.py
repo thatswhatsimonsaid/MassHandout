@@ -36,7 +36,7 @@ def main(day: int, month: int, year: int) -> None:
     print()
 
     english_bible_section_entries: List[Tuple[str, str]] = []
-    vietnamese_bible_section_entries: List[Dict[str, str]] = []
+    vietnamese_bible_section_entries: List[Tuple[str, str]] = []
     for (
         lit_word_section,
         bible_passage_reference_english,
