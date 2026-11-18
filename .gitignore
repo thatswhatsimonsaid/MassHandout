@@ -16,3 +16,6 @@ ENV/
 .venv/
 .DS_Store
 .streamlit/
+
+# Formatting/Linting
+.ruff_cache/
