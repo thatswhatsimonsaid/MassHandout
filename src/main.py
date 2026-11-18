@@ -5,6 +5,7 @@ from src.scraping.scrapers import scrape_usccb_async, get_thanhlinh_url_dynamica
 from src.parsing.parsers import prepare_template_data
 from src.builder import create_booklet_docx
 
+
 async def internal_main(custom_date: str = None, custom_org: str = None):
     user_inputs = SINGLE_CONFIG.copy()
     if custom_date:
@@ -27,6 +28,7 @@ async def internal_main(custom_date: str = None, custom_org: str = None):
     create_booklet_docx(user_inputs, final_data, filename=filename)
     print(f"Generated: {filename}")
     return filename
+
 
 if __name__ == "__main__":
     asyncio.run(internal_main())

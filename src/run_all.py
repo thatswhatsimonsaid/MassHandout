@@ -5,6 +5,7 @@ from src.scraping.scrapers import scrape_usccb_async, get_thanhlinh_url_dynamica
 from src.parsing.parsers import prepare_template_data
 from src.builder import create_booklet_docx
 
+
 async def run_all_local():
     output_dir = EXPERIMENT_CONFIG["output_dir"]
     os.makedirs(output_dir, exist_ok=True)
@@ -19,10 +20,11 @@ async def run_all_local():
         scraped_viet = scrape_thanhlinh(thanhlinh_url)
 
         final_data = prepare_template_data(user_inputs, scraped_eng, scraped_viet)
-        
+
         filename = os.path.join(output_dir, f"Mass_Booklet_{date_str}.docx")
         create_booklet_docx(user_inputs, final_data, filename=filename)
         print(f"Saved: {filename}")
+
 
 if __name__ == "__main__":
     asyncio.run(run_all_local())
