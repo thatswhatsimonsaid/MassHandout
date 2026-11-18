@@ -1,7 +1,8 @@
 from datetime import datetime
+
 import docx
 from docx import Document
-from docx.enum.text import WD_ALIGN_PARAGRAPH, WD_BREAK, WD_TAB_ALIGNMENT
+from docx.enum.text import WD_ALIGN_PARAGRAPH, WD_TAB_ALIGNMENT
 from docx.oxml.ns import qn
 from docx.shared import Inches, Pt, RGBColor
 
@@ -31,7 +32,7 @@ def add_heading_with_citation(doc, label, citation):
     r_label.font.color.rgb = RGBColor(0, 0, 0)
 
     if citation:
-        r_tab = p.add_run("\t")
+        p.add_run("\t")
         r_cite = p.add_run(citation)
         r_cite.font.bold = False
         r_cite.font.italic = False

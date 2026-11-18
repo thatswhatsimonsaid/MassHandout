@@ -1,9 +1,10 @@
-import os
 import asyncio
-from src.config.single_config import SINGLE_CONFIG
-from src.scraping.scrapers import scrape_usccb_async, get_thanhlinh_url_dynamically, scrape_thanhlinh
-from src.parsing.parsers import prepare_template_data
+import os
+
 from src.builder import create_booklet_docx
+from src.config.single_config import SINGLE_CONFIG
+from src.parsing.parsers import prepare_template_data
+from src.scraping.scrapers import get_thanhlinh_url_dynamically, scrape_thanhlinh, scrape_usccb_async
 
 
 async def internal_main(custom_date: str = None, custom_org: str = None):
