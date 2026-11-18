@@ -1,8 +1,7 @@
-from ast import Tuple
+import re
 from dataclasses import dataclass
 from http import HTTPStatus
-import re
-from typing import Optional
+from typing import Optional, Tuple
 
 import requests
 
@@ -88,7 +87,7 @@ def get_vietnamese_bible_section(
 
     vietnamese_translate_result = books_of_the_bible_translation.translate_book_name(bible_passage_reference_english)
     bible_api_passage_reference_vietnamese = vietnamese_translate_result["bibleAPITranslatedToVietnamese"]
-    bible_actual_passage_refererence_vietnamese = vietnamese_translate_result["actualTranslatedToVietnamese"]
+    vietnamese_translate_result["actualTranslatedToVietnamese"]
     bible_passage_reference_code = vietnamese_translate_result["referenceBookCode"]
     print("Bible Passage Reference Code (Vietnamese):", bible_passage_reference_code)
 

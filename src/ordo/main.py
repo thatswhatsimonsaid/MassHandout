@@ -1,9 +1,8 @@
 import argparse
 import json
-from typing import Dict, List, Optional, Tuple
-from datetime import date
-
 import sys
+from datetime import date
+from typing import Dict, List, Optional, Tuple
 
 from src.bible_reading_retrieval import english_bible_api, vietnamese_bible_api
 from src.ordo.daily_catholic_reading_api import get_catholic_daily_reading_reference

@@ -1,8 +1,9 @@
-from http import HTTPStatus
 import re
+from http import HTTPStatus
 from typing import Optional, Tuple
-from attr import dataclass
+
 import requests
+from attr import dataclass
 
 from src.bible_reading_retrieval import books_of_the_bible_translation
 from src.bible_reading_retrieval.liturgy_of_the_word_section import LiturgyOfTheWordSectionEnglish

@@ -1,6 +1,5 @@
-from enum import StrEnum
-
 import re
+from enum import StrEnum
 
 
 class LiturgyOfTheWordSectionEnglish(StrEnum):

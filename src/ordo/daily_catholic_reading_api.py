@@ -1,8 +1,8 @@
-from pydantic import BaseModel
 from datetime import date
 from typing import Optional
 
 import requests
+from pydantic import BaseModel
 
 
 class CatholicReadingsAPIReadingVerseReference(BaseModel):
