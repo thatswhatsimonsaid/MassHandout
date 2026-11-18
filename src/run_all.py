@@ -1,19 +1,19 @@
 ### Packages ###
 import os
 import asyncio
-from config.experiment_config import CONFIG
-from src.scrapers import scrape_usccb_async, get_thanhlinh_url_dynamically, scrape_thanhlinh
-from src.parsers import prepare_template_data
+from config.experiment_config import EXPERIMENT_CONFIG
+from src.scraping.scrapers import scrape_usccb_async, get_thanhlinh_url_dynamically, scrape_thanhlinh
+from src.parsing.parsers import prepare_template_data
 from src.builder import create_booklet_docx
 
 ### Run all ###
 async def run_all_local():
-    output_dir = CONFIG["output_dir"]
+    output_dir = EXPERIMENT_CONFIG["output_dir"]
     os.makedirs(output_dir, exist_ok=True)
 
-    for date_str in CONFIG["dates"]:
+    for date_str in EXPERIMENT_CONFIG["dates"]:
         print(f"Generating booklet for date: {date_str}...")
-        user_inputs = CONFIG["default_inputs"].copy()
+        user_inputs = EXPERIMENT_CONFIG["default_inputs"].copy()
         user_inputs["date"] = date_str
 
         scraped_eng = await scrape_usccb_async(date_str)
