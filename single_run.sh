@@ -1,3 +1,2 @@
 #!/bin/bash
-export PYTHONPATH=.
-python src/main.py
+PYTHONPATH=. python3 src/main.py
