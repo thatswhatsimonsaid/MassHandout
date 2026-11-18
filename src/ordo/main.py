@@ -11,10 +11,12 @@ from src.ordo.liturgical_calendar_api import LiturgicalCalendarAPIWrapper
 
 def _parse_named_cli_args(argv: Optional[List[str]] = None) -> argparse.Namespace:
     today = date.today()
+
     parser = argparse.ArgumentParser(description="Fetch Catholic daily readings and liturgical calendar info.")
     parser.add_argument("-d", "--day", type=int, default=today.day, help="Day of the month (default: today)")
     parser.add_argument("-m", "--month", type=int, default=today.month, help="Month of the year (default: today)")
     parser.add_argument("-y", "--year", type=int, default=today.year, help="Four-digit year (default: today)")
+
     return parser.parse_args(argv)
 
 
