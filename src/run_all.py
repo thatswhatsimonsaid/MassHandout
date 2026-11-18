@@ -1,4 +1,3 @@
-### Packages ###
 import os
 import asyncio
 from config.experiment_config import EXPERIMENT_CONFIG
