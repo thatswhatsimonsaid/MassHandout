@@ -1,14 +1,14 @@
+import asyncio
 import os
 import smtplib
-from email.message import EmailMessage
 import streamlit as st
-from src.main import generate_booklet_from_web
 
-st.title("📖 VEYM Mass Booklet Generator")
+from email.message import EmailMessage
+from src.main import internal_main
 
-user_email = st.text_input("Your Email Address")
-target_date = st.text_input("Mass Date (MMDDYY)", value="093026")
-org_name = st.text_input("Organization / Chapter", value="VEYM Chapter")
+def generate_booklet_from_web(date_str: str, org_name: str) -> str:
+    filename = asyncio.run(internal_main(custom_date=date_str, custom_org=org_name))
+    return filename
 
 def send_email_with_attachment(recipient_email: str, file_path: str):
     # Retrieve credentials from Streamlit secrets (or environment variables)
@@ -34,20 +34,30 @@ def send_email_with_attachment(recipient_email: str, file_path: str):
     with smtplib.SMTP_SSL(smtp_server, smtp_port) as server:
         server.login(sender_email, sender_password)
         server.send_message(msg)
+        
+def main():
+    st.title("📖 VEYM Mass Booklet Generator")
 
-if st.button("Generate & Email Booklet"):
-    if user_email:
-        with st.spinner("Generating your booklet and dispatching email..."):
-            try:
-                # 1. Run core generation logic returning the .docx path
-                output_path = generate_booklet_from_web(target_date, org_name)
+    user_email = st.text_input("Your Email Address")
+    target_date = st.text_input("Mass Date (MMDDYY)", value="093026")
+    org_name = st.text_input("Organization / Chapter", value="VEYM Chapter")
+    
+    if st.button("Generate & Email Booklet"):
+        if user_email:
+            with st.spinner("Generating your booklet and dispatching email..."):
+                try:
+                    # 1. Run core generation logic returning the .docx path
+                    output_path = generate_booklet_from_web(target_date, org_name)
 
-                # 2. Send via SMTP from simon.nguyen1@veym.net
-                send_email_with_attachment(user_email, output_path)
+                    # 2. Send via SMTP from simon.nguyen1@veym.net
+                    send_email_with_attachment(user_email, output_path)
 
-                st.success(f"Success! Your booklet has been emailed to {user_email}.")
-            except Exception as e:
-                st.error(f"An error occurred: {e}")
+                    st.success(f"Success! Your booklet has been emailed to {user_email}.")
+                except Exception as e:
+                    st.error(f"An error occurred: {e}")
     else:
     # Fix: Corrected indentation alignment to match `if st.button` block
         st.error("Please provide a valid email address.")
+
+if __name__ == "__main__":
+    main()

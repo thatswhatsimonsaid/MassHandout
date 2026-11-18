@@ -1,4 +1,3 @@
-### Packages ###
 from datetime import datetime
 import docx
 from docx import Document

@@ -1,12 +1,9 @@
-
-### Packages ###
-
 import re
 from datetime import datetime
 import requests
 from bs4 import BeautifulSoup
 from playwright.async_api import async_playwright
-from .parsers import SECTION_KEYWORDS
+from src.parsing.parsers import SECTION_KEYWORDS
 
 
 ### CITATION FORMAT VALIDATOR ###

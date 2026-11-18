@@ -7,7 +7,7 @@
 #SBATCH --time=0:05:00
 #SBATCH --mem-per-cpu=1G
 #SBATCH --mail-type=FAIL
-#SBATCH --mail-user=simondn@uw.edu
+#SBATCH --mail-user=simon.nguyen1@veym.net
 
 source /mnt/beegfs/homes/simondn/MassHandout/.venv/bin/activate
 export PYTHONPATH=.
