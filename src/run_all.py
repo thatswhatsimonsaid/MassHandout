@@ -5,7 +5,6 @@ from src.scraping.scrapers import scrape_usccb_async, get_thanhlinh_url_dynamica
 from src.parsing.parsers import prepare_template_data
 from src.builder import create_booklet_docx
 
-### Run all ###
 async def run_all_local():
     output_dir = EXPERIMENT_CONFIG["output_dir"]
     os.makedirs(output_dir, exist_ok=True)
