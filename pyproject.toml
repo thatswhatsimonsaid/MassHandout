@@ -1,0 +1,11 @@
+[tool.ruff]
+line-length = 120
+lint.select = ["F", "W", "I"]
+exclude = ["py3_predict", "logs"]
+
+[tool.ruff.format]
+quote-style = "double"
+line-ending = "lf"
+indent-style = "space"
+skip-magic-trailing-comma = false
+docstring-code-format = true

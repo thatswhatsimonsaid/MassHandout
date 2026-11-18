@@ -1,28 +1,30 @@
 import os
+
 from src.config.experiment_config import EXPERIMENT_CONFIG as CONFIG
+
 
 def generate_sbatch():
     job_dir = "experiments/job_scripts"
     log_out_dir = "experiments/slurm_logs/out"
     log_err_dir = "experiments/slurm_logs/err"
-    
+
     os.makedirs(job_dir, exist_ok=True)
     os.makedirs(log_out_dir, exist_ok=True)
     os.makedirs(log_err_dir, exist_ok=True)
-    
+
     dates_str = " ".join(CONFIG["dates"])
     scfg = CONFIG["slurm"]
-    
+
     sbatch_content = f"""#!/bin/bash
 #SBATCH --job-name=mass_booklets
 #SBATCH --output={log_out_dir}/mass_%A_%a.out
 #SBATCH --error={log_err_dir}/mass_%A_%a.err
-#SBATCH --array=0-{len(CONFIG["dates"])-1}
-#SBATCH --partition={scfg['partition']}
-#SBATCH --time={scfg['time']}
-#SBATCH --mem-per-cpu={scfg['mem_per_cpu']}
-#SBATCH --mail-type={scfg['mail_type']}
-#SBATCH --mail-user={scfg['mail_user']}
+#SBATCH --array=0-{len(CONFIG["dates"]) - 1}
+#SBATCH --partition={scfg["partition"]}
+#SBATCH --time={scfg["time"]}
+#SBATCH --mem-per-cpu={scfg["mem_per_cpu"]}
+#SBATCH --mail-type={scfg["mail_type"]}
+#SBATCH --mail-user={scfg["mail_user"]}
 
 source /mnt/beegfs/homes/simondn/MassHandout/.venv/bin/activate
 export PYTHONPATH=.
@@ -59,6 +61,7 @@ asyncio.run(main())
     with open(sbatch_path, "w") as f:
         f.write(sbatch_content)
     print(f"Generated {sbatch_path} successfully!")
+
 
 if __name__ == "__main__":
     generate_sbatch()
