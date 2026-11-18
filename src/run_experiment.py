@@ -1,5 +1,5 @@
 import os
-from config.experiment_config import EXPERIMENT_CONFIG as CONFIG
+from src.config.experiment_config import EXPERIMENT_CONFIG as CONFIG
 
 def generate_sbatch():
     job_dir = "experiments/job_scripts"
