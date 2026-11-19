@@ -1,8 +1,10 @@
 import re
 from datetime import datetime
+
 import requests
 from bs4 import BeautifulSoup
 from playwright.async_api import async_playwright
+
 from src.parsing.parsers import SECTION_KEYWORDS
 
 
