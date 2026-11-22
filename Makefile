@@ -9,7 +9,7 @@ run:
 
 .PHONY:
 fmt-check:
-	ruff format --check
+	ruff format --line-length=120 --no-cache --check
 
 .PHONY:
 fmt:
@@ -20,7 +20,7 @@ lint-check:
 	ruff check
 
 .PHONY: lint-fix
-lint-fix:
+lint:
 	ruff check --fix --unsafe-fixes
 
 .PHONY: clean
