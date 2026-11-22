@@ -8,16 +8,20 @@ run:
 	streamlit run app.py
 
 .PHONY:
+fmt-check:
+	ruff format --check
+
+.PHONY:
 fmt:
-	ruff format --line-length=120 --no-cache src/**/*.py
+	ruff format --line-length=120 --no-cache
 
 .PHONY: lint
-lint:
-	ruff check src/**/*.py
+lint-check:
+	ruff check
 
 .PHONY: lint-fix
 lint-fix:
-	ruff check --fix src/**/*.py --unsafe-fixes
+	ruff check --fix --unsafe-fixes
 
 .PHONY: clean
 clean:

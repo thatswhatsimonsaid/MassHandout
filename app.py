@@ -1,9 +1,10 @@
 import asyncio
 import os
 import smtplib
+from email.message import EmailMessage
+
 import streamlit as st
 
-from email.message import EmailMessage
 from src.main import internal_main
 
 
