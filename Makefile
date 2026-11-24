@@ -27,6 +27,10 @@ lint:
 generate-english-bible-json:
 	time PYTHONPATH=. python3 src/bible_generate_json/english/generate_english_bible_dataset.py
 
+.PHONY: generate-vietnamese-bible-json
+generate-vietnamese-bible-json:
+	time PYTHONPATH=. python3 src/bible_generate_json/vietnamese/generate_vietnamese_bible_dataset.py
+
 .PHONY: clean
 clean:
 	-rm -rf .venv
