@@ -14,7 +14,7 @@ from bs4 import BeautifulSoup, Tag
 from bs4.element import PageElement
 from pydantic import BaseModel
 
-from src.bible_reading_retrieval.english.catholic_bible_books import CatholicEnglishBibleBook
+from src.bible_reading_retrieval.english.english_catholic_bible_books import CatholicEnglishBibleBook
 
 
 @dataclass
