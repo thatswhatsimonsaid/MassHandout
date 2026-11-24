@@ -204,7 +204,7 @@ def _save_bible(bible: List[Dict[str, Any]]):
             bible,
             ensure_ascii=False,
             indent=2,
-            default=lambda obj: obj.model_dump_json(indent=2) if isinstance(obj, BaseModel) else str(obj),
+            default=lambda obj: obj.model_dump(mode="json") if isinstance(obj, BaseModel) else str(obj),
         ),
         encoding="utf-8",
     )
