@@ -23,6 +23,10 @@ lint-check:
 lint:
 	ruff check --fix --unsafe-fixes
 
+.PHONY: generate-english-bible-json
+generate-english-bible-json:
+	time PYTHONPATH=. python3 src/bible_generate_json/english/generate_english_bible_dataset.py
+
 .PHONY: clean
 clean:
 	-rm -rf .venv
