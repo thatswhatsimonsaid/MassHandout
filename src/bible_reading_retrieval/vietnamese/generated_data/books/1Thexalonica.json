@@ -1,0 +1,564 @@
+{
+  "book": "1 Thê-xa-lô-ni-ca",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "verse": 1,
+          "label": "1",
+          "header": "Lời mở đầu",
+          "text": "Chúng tôi là Phao-lô, Xin-va-nô và Ti-mô-thê, kính gửi Hội Thánh Thê-xa-lô-ni-ca ở trong Thiên Chúa Cha, và trong Chúa Giê-su Ki-tô. Chúc anh em được ân sủng và bình an."
+        },
+        {
+          "verse": 2,
+          "label": "2",
+          "header": "Tạ ơn Thiên Chúa và khen ngợi cộng đoàn",
+          "text": "Chúng tôi hằng tạ ơn Thiên Chúa về tất cả anh em. Chúng tôi nhắc đến anh em trong lời cầu nguyện,"
+        },
+        {
+          "verse": 3,
+          "label": "3",
+          "header": "",
+          "text": "và trước mặt Thiên Chúa là Cha chúng ta, chúng tôi không ngừng nhớ đến những việc anh em làm vì lòng tin, những nỗi khó nhọc anh em gánh vác vì lòng mến, và những gì anh em kiên nhẫn chịu đựng vì trông đợi Chúa chúng ta là Đức Giê-su Ki-tô."
+        },
+        {
+          "verse": 4,
+          "label": "4",
+          "header": "",
+          "text": "Thưa anh em là những người được Thiên Chúa thương mến, chúng tôi biết rằng Thiên Chúa đã chọn anh em,"
+        },
+        {
+          "verse": 5,
+          "label": "5",
+          "header": "",
+          "text": "vì khi chúng tôi loan báo Tin Mừng cho anh em, thì không phải chỉ có lời chúng tôi nói, mà còn có quyền năng, có Thánh Thần, và một niềm xác tín sâu xa. Anh em biết, khi ở với anh em, chúng tôi đã sống thế nào để mưu ích cho anh em;"
+        },
+        {
+          "verse": 6,
+          "label": "6",
+          "header": "",
+          "text": "còn anh em, anh em đã bắt chước chúng tôi và noi gương Chúa, khi đón nhận lời Chúa giữa bao nỗi gian truân với niềm vui do Thánh Thần ban:"
+        },
+        {
+          "verse": 7,
+          "label": "7",
+          "header": "",
+          "text": "bởi vậy anh em đã nên gương cho mọi tín hữu ở miền Ma-kê-đô-ni-a và miền A-khai-a."
+        },
+        {
+          "verse": 8,
+          "label": "8",
+          "header": "",
+          "text": "Quả thế, từ nơi anh em, lời Chúa đã vang ra, không những ở Ma-kê-đô-ni-a và A-khai-a, mà đâu đâu người ta cũng nghe biết lòng tin anh em đặt vào Thiên Chúa, khiến chúng tôi không cần phải nói gì thêm nữa."
+        },
+        {
+          "verse": 9,
+          "label": "9",
+          "header": "",
+          "text": "Khi nói về chúng tôi, người ta kể lại chúng tôi đã được anh em tiếp đón làm sao, và anh em đã từ bỏ ngẫu tượng mà quay về với Thiên Chúa thế nào, để phụng sự Thiên Chúa hằng sống, Thiên Chúa thật,"
+        },
+        {
+          "verse": 10,
+          "label": "10",
+          "header": "",
+          "text": "và chờ đợi Con của Người từ trời ngự đến, người Con mà Thiên Chúa đã cho trỗi dậy từ cõi chết, là Đức Giê-su, Đấng cứu chúng ta thoát cơn thịnh nộ đang đến."
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "verse": 1,
+          "label": "1",
+          "header": "Thái độ của ông Phao-lô khi ở Thê-xa-lô-ni-ca",
+          "text": "Thật vậy, thưa anh em, chính anh em biết rằng việc anh em đón tiếp chúng tôi không phải vô ích."
+        },
+        {
+          "verse": 2,
+          "label": "2",
+          "header": "",
+          "text": "Như anh em biết, chúng tôi đã đau khổ và bị làm nhục tại Phi-líp-phê; nhưng vì tin tưởng vào Thiên Chúa chúng ta mà chúng tôi đã mạnh dạn rao giảng Tin Mừng của Thiên Chúa cho anh em, qua những cuộc chiến đấu gay go."
+        },
+        {
+          "verse": 3,
+          "label": "3",
+          "header": "",
+          "text": "Lời giảng của chúng tôi không do sự sai lầm, không có dụng ý xấu, không nhằm lừa dối ai,"
+        },
+        {
+          "verse": 4,
+          "label": "4",
+          "header": "",
+          "text": "nhưng vì Thiên Chúa đã thử luyện chúng tôi và giao phó Tin Mừng cho chúng tôi, thì chúng tôi cứ vậy mà rao giảng, không phải để làm vừa lòng người phàm, mà để làm đẹp lòng Thiên Chúa, Đấng thử luyện tâm hồn chúng tôi."
+        },
+        {
+          "verse": 5,
+          "label": "5",
+          "header": "",
+          "text": "Không bao giờ chúng tôi đã dùng lời xu nịnh, như anh em biết; không bao giờ chúng tôi đã viện cớ để che đậy lòng tham, có Thiên Chúa chứng giám;"
+        },
+        {
+          "verse": 6,
+          "label": "6",
+          "header": "",
+          "text": "không bao giờ chúng tôi đã tìm cách để được một người phàm nào tôn vinh, dù là anh em hay người khác,"
+        },
+        {
+          "verse": 7,
+          "label": "7",
+          "header": "",
+          "text": "trong khi chúng tôi có thể đòi anh em phải trọng đãi, với tư cách là Tông Đồ Đức Ki-tô. Trái lại, khi ở giữa anh em, chúng tôi đã cư xử thật dịu dàng, chẳng khác nào mẹ hiền ấp ủ con thơ."
+        },
+        {
+          "verse": 8,
+          "label": "8",
+          "header": "",
+          "text": "Chúng tôi đã quý mến anh em, đến nỗi sẵn sàng hiến cho anh em, không những Tin Mừng của Thiên Chúa, mà cả mạng sống của chúng tôi nữa, vì anh em đã trở nên những người thân yêu của chúng tôi."
+        },
+        {
+          "verse": 9,
+          "label": "9",
+          "header": "",
+          "text": "Thưa anh em, hẳn anh em còn nhớ nỗi khó nhọc vất vả của chúng tôi: đêm ngày chúng tôi đã làm việc để khỏi thành gánh nặng cho một người nào trong anh em, suốt thời gian chúng tôi loan báo Tin Mừng của Thiên Chúa cho anh em."
+        },
+        {
+          "verse": 10,
+          "label": "10",
+          "header": "",
+          "text": "Anh em làm chứng, và Thiên Chúa cũng chứng giám, rằng với anh em là những tín hữu, chúng tôi đã cư xử một cách thánh thiện, công minh, không chê trách được."
+        },
+        {
+          "verse": 11,
+          "label": "11",
+          "header": "",
+          "text": "Anh em biết: chúng tôi đã cư xử với mỗi người trong anh em như cha với con;"
+        },
+        {
+          "verse": 12,
+          "label": "12",
+          "header": "",
+          "text": "chúng tôi đã khuyên nhủ, khích lệ, van nài anh em sống xứng đáng với Thiên Chúa, Đấng kêu gọi anh em vào Nước của Người và chia sẻ vinh quang với Người."
+        },
+        {
+          "verse": 13,
+          "label": "13",
+          "header": "Đức tin và lòng kiên nhẫn của người Thê-xa-lô-ni-ca",
+          "text": "Bởi thế, về phần chúng tôi, chúng tôi không ngừng tạ ơn Thiên Chúa, vì khi chúng tôi nói cho anh em nghe lời Thiên Chúa, anh em đã đón nhận, không phải như lời người phàm, nhưng như lời Thiên Chúa, đúng theo bản tính của lời ấy. Lời đó tác động nơi anh em là những tín hữu."
+        },
+        {
+          "verse": 14,
+          "label": "14",
+          "header": "",
+          "text": "Thật vậy, thưa anh em, anh em đã noi gương các Hội Thánh của Thiên Chúa ở miền Giu-đê là những Hội Thánh của Đức Ki-tô Giê-su, vì anh em cũng đã phải chịu những nỗi đau khổ do đồng bào của anh em gây ra, như các Hội Thánh đó đã phải chịu do người Do-thái."
+        },
+        {
+          "verse": 15,
+          "label": "15",
+          "header": "",
+          "text": "Những người này đã giết Chúa Giê-su và các ngôn sứ, đã bắt bớ chúng tôi, họ không đẹp lòng Thiên Chúa và chống lại tất cả mọi người;"
+        },
+        {
+          "verse": 16,
+          "label": "16",
+          "header": "",
+          "text": "họ ngăn cản khi chúng tôi rao giảng cho người ngoại để những người này được ơn cứu độ. Như vậy họ luôn luôn chất đầy thêm tội lỗi; nhưng cuối cùng cơn thịnh nộ của Thiên Chúa đã giáng xuống trên họ."
+        },
+        {
+          "verse": 17,
+          "label": "17",
+          "header": "Ông Phao-lô lo lắng về cộng đoàn",
+          "text": "Phần chúng tôi, thưa anh em, phải xa cách anh em một thời gian ngắn, xa mặt chứ không cách lòng, chúng tôi càng cố gắng hơn để lại thấy mặt anh em, vì chúng tôi rất ước ao điều đó."
+        },
+        {
+          "verse": 18,
+          "label": "18",
+          "header": "",
+          "text": "Bởi vậy chúng tôi đã muốn đến thăm anh em –chính tôi, Phao-lô, đã nhiều lần định đi– nhưng Xa-tan đã cản trở chúng tôi."
+        },
+        {
+          "verse": 19,
+          "label": "19",
+          "header": "",
+          "text": "Quả thế, ai là niềm hy vọng, là niềm vui của chúng tôi, ai là triều thiên làm cho chúng tôi hãnh diện trước nhan Đức Giê-su, Chúa chúng ta, khi Người quang lâm, nếu không phải là anh em?"
+        },
+        {
+          "verse": 20,
+          "label": "20",
+          "header": "",
+          "text": "Phải, chính anh em là vinh quang và là niềm vui của chúng tôi."
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "verse": 1,
+          "label": "1",
+          "header": "Phái ông Ti-mô-thê đi Thê-xa-lô-ni-ca",
+          "text": "Vì vậy, không chịu nổi nữa, chúng tôi đã quyết định ở lại A-thê-na một mình,"
+        },
+        {
+          "verse": 2,
+          "label": "2",
+          "header": "",
+          "text": "và chúng tôi đã phái anh Ti-mô-thê, người anh em của chúng tôi và cộng sự viên của Thiên Chúa trong việc loan báo Tin Mừng Đức Ki-tô; anh đến để làm cho anh em được vững mạnh, và khích lệ đức tin của anh em,"
+        },
+        {
+          "verse": 3,
+          "label": "3",
+          "header": "",
+          "text": "khiến không ai bị nao núng vì các nỗi gian truân ấy. Hẳn anh em biết đó là số phận dành cho chúng ta."
+        },
+        {
+          "verse": 4,
+          "label": "4",
+          "header": "",
+          "text": "Thật thế, khi còn ở với anh em, chúng tôi đã nói trước cho anh em rằng chúng ta sẽ gặp gian truân, điều đó đã xảy ra như anh em biết."
+        },
+        {
+          "verse": 5,
+          "label": "5",
+          "header": "",
+          "text": "Chính vì vậy mà không chịu nổi nữa, tôi đã sai người đi hỏi cho biết lòng tin của anh em ra sao, sợ rằng tên cám dỗ đã cám dỗ anh em, và công lao khó nhọc của chúng tôi trở nên vô ích."
+        },
+        {
+          "verse": 6,
+          "label": "6",
+          "header": "Tạ ơn Chúa vì các tin tức nhận được",
+          "text": "Giờ đây, sau khi thăm anh em, anh Ti-mô-thê đã trở lại với chúng tôi và đưa tin mừng cho chúng tôi về lòng tin và lòng mến của anh em; anh ấy nói rằng anh em vẫn luôn luôn giữ kỷ niệm tốt về chúng tôi, và ao ước gặp lại chúng tôi, cũng như chúng tôi ao ước gặp lại anh em."
+        },
+        {
+          "verse": 7,
+          "label": "7",
+          "header": "",
+          "text": "Như vậy, thưa anh em, vì anh em có lòng tin, nên khi nghĩ đến anh em, chúng tôi được an ủi giữa mọi thống khổ gian truân chúng tôi phải chịu."
+        },
+        {
+          "verse": 8,
+          "label": "8",
+          "header": "",
+          "text": "Phải, chúng tôi sống được đến giờ này là nhờ anh em đứng vững trong Chúa."
+        },
+        {
+          "verse": 9,
+          "label": "9",
+          "header": "",
+          "text": "Chúng tôi biết nói gì để tạ ơn Thiên Chúa về anh em, vì tất cả niềm vui mà nhờ anh em, tôi có được trước nhan Thiên Chúa chúng ta?"
+        },
+        {
+          "verse": 10,
+          "label": "10",
+          "header": "",
+          "text": "Đêm ngày chúng tôi tha thiết nài xin Chúa cho được thấy mặt anh em và bổ túc những gì còn thiếu trong đức tin của anh em."
+        },
+        {
+          "verse": 11,
+          "label": "11",
+          "header": "",
+          "text": "Xin chính Thiên Chúa là Cha chúng ta, và xin Chúa chúng ta là Đức Giê-su san phẳng con đường dẫn chúng tôi đến với anh em."
+        },
+        {
+          "verse": 12,
+          "label": "12",
+          "header": "",
+          "text": "Xin Chúa cho tình thương của anh em đối với nhau và đối với mọi người ngày càng thêm đậm đà thắm thiết, cũng như tình thương của chúng tôi đối với anh em vậy."
+        },
+        {
+          "verse": 13,
+          "label": "13",
+          "header": "",
+          "text": "Như thế, Chúa sẽ cho anh em được bền tâm vững chí, được trở nên thánh thiện, không có gì đáng chê trách, trước nhan Thiên Chúa là Cha chúng ta, trong ngày Đức Giê-su, Chúa chúng ta, quang lâm cùng với các thánh của Người."
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "verse": 1,
+          "label": "1",
+          "header": "Khuyên cộng đoàn sống thánh thiện và bác ái",
+          "text": "Vả lại, thưa anh em, anh em đã được chúng tôi dạy phải sống thế nào cho đẹp lòng Thiên Chúa, và anh em cũng đang sống như thế; vậy nhân danh Chúa Giê-su, chúng tôi xin, chúng tôi khuyên nhủ anh em hãy tấn tới nhiều hơn nữa."
+        },
+        {
+          "verse": 2,
+          "label": "2",
+          "header": "",
+          "text": "Hẳn anh em rõ chúng tôi đã lấy quyền Chúa Giê-su mà ra những chỉ thị nào cho anh em."
+        },
+        {
+          "verse": 3,
+          "label": "3",
+          "header": "",
+          "text": "Ý muốn của Thiên Chúa là anh em nên thánh, tức là xa lánh gian dâm,"
+        },
+        {
+          "verse": 4,
+          "label": "4",
+          "header": "",
+          "text": "mỗi người hãy biết lấy cho mình một người vợ để sống cách thánh thiện và trong danh dự,"
+        },
+        {
+          "verse": 5,
+          "label": "5",
+          "header": "",
+          "text": "chứ không buông theo đam mê dục vọng như dân ngoại, là những người không biết Thiên Chúa."
+        },
+        {
+          "verse": 6,
+          "label": "6",
+          "header": "",
+          "text": "Về điểm này, đừng ai làm tổn thương hay lừa dối người anh em mình, vì Chúa là Đấng trừng phạt tất cả những cái đó, như chúng tôi đã từng báo trước và cảnh cáo anh em."
+        },
+        {
+          "verse": 7,
+          "label": "7",
+          "header": "",
+          "text": "Thật vậy, Thiên Chúa đã không kêu gọi chúng ta sống ô uế, nhưng sống thánh thiện."
+        },
+        {
+          "verse": 8,
+          "label": "8",
+          "header": "",
+          "text": "Vậy ai khinh thường những lời dạy trên, thì không phải khinh thường một người phàm, nhưng khinh thường Thiên Chúa; Đấng hằng ban cho anh em Thánh Thần của Người."
+        },
+        {
+          "verse": 9,
+          "label": "9",
+          "header": "",
+          "text": "Còn về tình huynh đệ, anh em không cần ai viết cho anh em, vì chính anh em đã được Thiên Chúa dạy phải thương yêu nhau,"
+        },
+        {
+          "verse": 10,
+          "label": "10",
+          "header": "",
+          "text": "và anh em cũng đang làm như vậy cho tất cả các anh em trong toàn miền Ma-kê-đô-ni-a. Nhưng thưa anh em, tôi khuyên nhủ anh em hãy tiến tới nhiều hơn nữa."
+        },
+        {
+          "verse": 11,
+          "label": "11",
+          "header": "",
+          "text": "Hãy gắng giữ hoà khí, ai lo việc nấy và lao động bằng chính bàn tay của mình, như chính tôi đã truyền cho anh em."
+        },
+        {
+          "verse": 12,
+          "label": "12",
+          "header": "",
+          "text": "Như vậy, lối sống của anh em sẽ được người ngoài cảm phục, và anh em sẽ không cần nhờ đến ai."
+        },
+        {
+          "verse": 13,
+          "label": "13",
+          "header": "Người sống và kẻ chết trong ngày Chúa quang lâm",
+          "text": "Thưa anh em, về những ai đã an giấc ngàn thu, chúng tôi không muốn để anh em chẳng hay biết gì, hầu anh em khỏi buồn phiền như những người khác, là những người không có niềm hy vọng."
+        },
+        {
+          "verse": 14,
+          "label": "14",
+          "header": "",
+          "text": "Vì nếu chúng ta tin rằng Đức Giê-su đã chết và đã sống lại, thì chúng ta cũng tin rằng những người đã an giấc trong Đức Giê-su, sẽ được Thiên Chúa đưa về cùng Đức Giê-su."
+        },
+        {
+          "verse": 15,
+          "label": "15",
+          "header": "",
+          "text": "Dựa vào lời của Chúa, chúng tôi nói với anh em điều này, là chúng ta, những người đang sống, những người còn lại vào ngày Chúa quang lâm, chúng ta sẽ chẳng đi trước những người đã an giấc ngàn thu đâu."
+        },
+        {
+          "verse": 16,
+          "label": "16",
+          "header": "",
+          "text": "Vì khi hiệu lệnh ban ra, khi tiếng tổng lãnh thiên thần và tiếng kèn của Thiên Chúa vang lên, thì chính Chúa sẽ từ trời ngự xuống, và những người đã chết trong Đức Ki-tô sẽ sống lại trước tiên;"
+        },
+        {
+          "verse": 17,
+          "label": "17",
+          "header": "",
+          "text": "rồi đến chúng ta, là những người đang sống, những người còn lại, chúng ta sẽ được đem đi trên đám mây cùng với họ, để nghênh đón Chúa trên không trung. Như thế, chúng ta sẽ được ở cùng Chúa mãi mãi."
+        },
+        {
+          "verse": 18,
+          "label": "18",
+          "header": "",
+          "text": "Vậy anh em hãy dùng những lời ấy mà an ủi nhau."
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "verses": [
+        {
+          "verse": 1,
+          "label": "1",
+          "header": "Tỉnh thức chờ ngày Chúa quang lâm",
+          "text": "Thưa anh em, về ngày giờ và thời kỳ Chúa đến, anh em không cần ai viết cho anh em."
+        },
+        {
+          "verse": 2,
+          "label": "2",
+          "header": "",
+          "text": "Vì chính anh em đã biết rõ: ngày của Chúa sẽ đến như kẻ trộm ban đêm."
+        },
+        {
+          "verse": 3,
+          "label": "3",
+          "header": "",
+          "text": "Khi người ta nói: “Bình an biết bao, yên ổn biết bao!”, thì lúc ấy tai hoạ sẽ thình lình ập xuống, tựa cơn đau chuyển bụng đến với người đàn bà có thai, và sẽ chẳng có ai trốn thoát được."
+        },
+        {
+          "verse": 4,
+          "label": "4",
+          "header": "",
+          "text": "Thưa anh em, anh em không ở trong bóng tối, để ngày ấy như kẻ trộm bắt chợt anh em."
+        },
+        {
+          "verse": 5,
+          "label": "5",
+          "header": "",
+          "text": "Vì tất cả anh em là con cái ánh sáng, con cái của ban ngày. Chúng ta không thuộc về đêm, cũng không thuộc về bóng tối."
+        },
+        {
+          "verse": 6,
+          "label": "6",
+          "header": "",
+          "text": "Vậy chúng ta đừng ngủ mê như những người khác, nhưng hãy tỉnh thức và sống tiết độ."
+        },
+        {
+          "verse": 7,
+          "label": "7",
+          "header": "",
+          "text": "Ai ngủ, thì ngủ ban đêm; ai say sưa, thì say sưa ban đêm."
+        },
+        {
+          "verse": 8,
+          "label": "8",
+          "header": "",
+          "text": "Nhưng chúng ta, chúng ta thuộc về ban ngày, nên hãy sống tiết độ, mặc áo giáp là đức tin và đức mến, đội mũ chiến là niềm hy vọng ơn cứu độ."
+        },
+        {
+          "verse": 9,
+          "label": "9",
+          "header": "",
+          "text": "Vì Thiên Chúa đã không định cho chúng ta phải chịu cơn thịnh nộ, nhưng được hưởng ơn cứu độ, nhờ Đức Giê-su Ki-tô, Chúa chúng ta,"
+        },
+        {
+          "verse": 10,
+          "label": "10",
+          "header": "",
+          "text": "Đấng đã chết vì chúng ta, để dầu thức hay ngủ, chúng ta cùng sống với Người."
+        },
+        {
+          "verse": 11,
+          "label": "11",
+          "header": "",
+          "text": "Vì thế, anh em hãy an ủi nhau và xây dựng cho nhau, như anh em vẫn làm."
+        },
+        {
+          "verse": 12,
+          "label": "12",
+          "header": "Một vài đòi hỏi của đời sống cộng đoàn",
+          "text": "Thưa anh em, chúng tôi xin anh em hãy quý trọng những ai đang vất vả vì anh em, để lãnh đạo anh em nhân danh Chúa và khuyên bảo anh em."
+        },
+        {
+          "verse": 13,
+          "label": "13",
+          "header": "",
+          "text": "Hãy lấy tình bác ái mà hết lòng tôn kính những người ấy, vì công việc họ làm. Hãy sống hoà thuận với nhau."
+        },
+        {
+          "verse": 14,
+          "label": "14",
+          "header": "",
+          "text": "Thưa anh em, chúng tôi khuyên nhủ anh em: hãy khuyên bảo người vô kỷ luật, khích lệ kẻ nhút nhát, nâng đỡ người yếu đuối, và kiên nhẫn với mọi người."
+        },
+        {
+          "verse": 15,
+          "label": "15",
+          "header": "",
+          "text": "Hãy coi chừng: đừng có ai lấy ác báo ác, nhưng hãy luôn luôn cố gắng làm điều thiện cho nhau cũng như cho mọi người."
+        },
+        {
+          "verse": 16,
+          "label": "16",
+          "header": "",
+          "text": "Anh em hãy vui mừng luôn mãi"
+        },
+        {
+          "verse": 17,
+          "label": "17",
+          "header": "",
+          "text": "và cầu nguyện không ngừng."
+        },
+        {
+          "verse": 18,
+          "label": "18",
+          "header": "",
+          "text": "Hãy tạ ơn trong mọi hoàn cảnh. Anh em hãy làm như vậy, đó là điều Thiên Chúa muốn trong Đức Ki-tô Giê-su."
+        },
+        {
+          "verse": 19,
+          "label": "19",
+          "header": "",
+          "text": "Anh em đừng dập tắt Thần Khí."
+        },
+        {
+          "verse": 20,
+          "label": "20",
+          "header": "",
+          "text": "Chớ khinh thường ơn nói tiên tri."
+        },
+        {
+          "verse": 21,
+          "label": "21",
+          "header": "",
+          "text": "Hãy cân nhắc mọi sự: điều gì tốt thì giữ;"
+        },
+        {
+          "verse": 22,
+          "label": "22",
+          "header": "",
+          "text": "còn điều xấu dưới bất cứ hình thức nào thì lánh cho xa."
+        },
+        {
+          "verse": 23,
+          "label": "23",
+          "header": "Lời cầu nguyện và lời chào cuối thư",
+          "text": "Nguyện chính Thiên Chúa là nguồn mạch bình an, thánh hoá toàn diện con người anh em, để thần trí, tâm hồn và thân xác anh em, được gìn giữ vẹn toàn, không gì đáng trách, trong ngày Đức Giê-su Ki-tô, Chúa chúng ta, quang lâm."
+        },
+        {
+          "verse": 24,
+          "label": "24",
+          "header": "",
+          "text": "Đấng kêu gọi anh em là Đấng trung thành: Người sẽ thực hiện điều đó."
+        },
+        {
+          "verse": 25,
+          "label": "25",
+          "header": "",
+          "text": "Thưa anh em, xin anh em cũng cầu nguyện cho chúng tôi nữa."
+        },
+        {
+          "verse": 26,
+          "label": "26",
+          "header": "",
+          "text": "Tất cả anh em hãy hôn chào nhau một cách thánh thiện."
+        },
+        {
+          "verse": 27,
+          "label": "27",
+          "header": "",
+          "text": "Nhân danh Chúa, tôi yêu cầu đọc thư này cho tất cả các anh em."
+        },
+        {
+          "verse": 28,
+          "label": "28",
+          "header": "",
+          "text": "Chúc anh em được đầy ân sủng của Đức Giê-su Ki-tô, Chúa chúng ta."
+        }
+      ]
+    }
+  ]
+}

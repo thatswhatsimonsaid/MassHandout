@@ -1,0 +1,649 @@
+{
+  "book": "Phi-líp-phê",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "verse": 1,
+          "label": "1",
+          "header": "Lời chào thăm",
+          "text": "Chúng tôi, Phao-lô và Ti-mô-thê, là những tôi tớ của Đức Ki-tô Giê-su, kính gửi mọi người trong dân thánh kết hợp với Đức Ki-tô Giê-su ở Phi-líp-phê, cùng kính gửi các vị giám quản và trợ tá."
+        },
+        {
+          "verse": 2,
+          "label": "2",
+          "header": "",
+          "text": "Xin Thiên Chúa là Cha chúng ta và Chúa Giê-su Ki-tô ban cho anh em ân sủng và bình an."
+        },
+        {
+          "verse": 3,
+          "label": "3",
+          "header": "Tạ ơn và cầu nguyện",
+          "text": "Tôi cảm tạ Thiên Chúa của tôi, mỗi lần nhớ đến anh em."
+        },
+        {
+          "verse": 4,
+          "label": "4",
+          "header": "",
+          "text": "Tôi luôn vui sướng mỗi khi cầu nguyện cho anh em hết thảy,"
+        },
+        {
+          "verse": 5,
+          "label": "5",
+          "header": "",
+          "text": "vì từ buổi đầu cho đến nay, anh em đã góp phần vào việc rao giảng Tin Mừng."
+        },
+        {
+          "verse": 6,
+          "label": "6",
+          "header": "",
+          "text": "Tôi tin chắc rằng: Đấng đã bắt đầu thực hiện nơi anh em một công việc tốt lành như thế, cũng sẽ đưa công việc đó tới chỗ hoàn thành cho đến ngày Đức Ki-tô Giê-su quang lâm."
+        },
+        {
+          "verse": 7,
+          "label": "7",
+          "header": "",
+          "text": "Tôi có những tâm tình như thế đối với tất cả anh em, đó là điều hợp lý, bởi vì tôi mang anh em trong lòng tôi. Khi tôi bị xiềng xích, cũng như lúc tôi bênh vực và củng cố Tin Mừng, anh em đều thông phần vào ân sủng tôi đã nhận được."
+        },
+        {
+          "verse": 8,
+          "label": "8",
+          "header": "",
+          "text": "Có Thiên Chúa làm chứng cho tôi: tôi hết lòng yêu quý anh em tất cả, với tình thương của Đức Ki-tô Giê-su."
+        },
+        {
+          "verse": 9,
+          "label": "9",
+          "header": "",
+          "text": "Điều tôi khẩn khoản nài xin, là cho lòng mến của anh em ngày thêm dồi dào, khiến anh em được ơn hiểu biết và tài trực giác siêu nhiên,"
+        },
+        {
+          "verse": 10,
+          "label": "10",
+          "header": "",
+          "text": "để nhận ra cái gì là tốt hơn. Tôi cũng xin cho anh em được nên tinh tuyền và không làm gì đáng trách, trong khi chờ đợi ngày Đức Ki-tô quang lâm."
+        },
+        {
+          "verse": 11,
+          "label": "11",
+          "header": "",
+          "text": "Như thế, anh em sẽ đem lại hoa trái dồi dào là sống một đời công chính nhờ Đức Giê-su Ki-tô, để tôn vinh và ngợi khen Thiên Chúa."
+        },
+        {
+          "verse": 12,
+          "label": "12",
+          "header": "Hoàn cảnh của thánh Phao-lô",
+          "text": "Thưa anh em, tôi muốn anh em biết là những gì xảy đến cho tôi thật ra đã giúp cho Tin Mừng được tiến triển,"
+        },
+        {
+          "verse": 13,
+          "label": "13",
+          "header": "",
+          "text": "đến nỗi tại dinh vua quan cũng như ở mọi nơi khác, người ta đều hiểu rõ là chính vì Đức Ki-tô mà tôi mang xiềng xích."
+        },
+        {
+          "verse": 14,
+          "label": "14",
+          "header": "",
+          "text": "Vì thấy tôi bị xiềng xích, phần đông các anh em có lòng tin cậy vào Chúa đã tỏ ra bạo dạn hơn để rao giảng lời Thiên Chúa mà không chút sợ hãi."
+        },
+        {
+          "verse": 15,
+          "label": "15",
+          "header": "",
+          "text": "Đã hẳn, có những kẻ rao giảng về Đức Ki-tô vì lòng ganh tị và tranh chấp, song những người khác lại làm công việc đó vì ý ngay lành."
+        },
+        {
+          "verse": 16,
+          "label": "16",
+          "header": "",
+          "text": "Những người này làm vì bác ái, bởi họ biết rằng tôi được chỉ định để lo bênh vực Tin Mừng."
+        },
+        {
+          "verse": 17,
+          "label": "17",
+          "header": "",
+          "text": "Còn những người kia thì loan báo Đức Ki-tô vì tính ưa tranh giành, họ không có lòng ngay, tưởng làm như thế là gây thêm khổ cho tôi, trong lúc tôi bị xiềng xích."
+        },
+        {
+          "verse": 18,
+          "label": "18",
+          "header": "",
+          "text": "Nhưng không sao đâu! Dù thế nào đi nữa với ý lành hay ý xấu, cuối cùng Đức Ki-tô được rao giảng là tôi mừng. Và tôi sẽ còn mừng nữa,"
+        },
+        {
+          "verse": 19,
+          "label": "19",
+          "header": "",
+          "text": "bởi vì tôi biết rằng điều ấy sẽ giúp cho tôi đạt được ơn cứu độ, nhờ lời cầu nguyện của anh em, và nhờ Thần Khí của Đức Giê-su Ki-tô phù trợ."
+        },
+        {
+          "verse": 20,
+          "label": "20",
+          "header": "",
+          "text": "Đó là điều tôi đợi chờ và hy vọng. Sẽ không có gì làm cho tôi phải hổ thẹn, trái lại tôi hoàn toàn vững tin. Bây giờ cũng như mọi lúc, Đức Ki-tô sẽ tỏ bày quyền uy cao cả của Người nơi thân xác tôi, dù tôi sống hay tôi chết:"
+        },
+        {
+          "verse": 21,
+          "label": "21",
+          "header": "",
+          "text": "vì đối với tôi, sống là Đức Ki-tô, và chết là một mối lợi."
+        },
+        {
+          "verse": 22,
+          "label": "22",
+          "header": "",
+          "text": "Nếu sống ở đời này mà công việc của tôi được sinh hoa kết quả, thì tôi không biết phải chọn đàng nào."
+        },
+        {
+          "verse": 23,
+          "label": "23",
+          "header": "",
+          "text": "Vì tôi bị giằng co giữa hai đàng: ao ước của tôi là ra đi để được ở với Đức Ki-tô, điều này tốt hơn bội phần:"
+        },
+        {
+          "verse": 24,
+          "label": "24",
+          "header": "",
+          "text": "nhưng ở lại đời này thì cần thiết hơn, vì anh em."
+        },
+        {
+          "verse": 25,
+          "label": "25",
+          "header": "",
+          "text": "Và tôi biết chắc rằng tôi sẽ ở lại và ở bên cạnh tất cả anh em để giúp anh em tấn tới và được hưởng niềm vui đức tin mang lại cho anh em."
+        },
+        {
+          "verse": 26,
+          "label": "26",
+          "header": "",
+          "text": "Như thế, trong Đức Ki-tô Giê-su, anh em càng có lý do để hãnh diện về tôi, khi tôi lại đến gặp anh em."
+        },
+        {
+          "verse": 27,
+          "label": "27",
+          "header": "Chiến đấu cho đức tin",
+          "text": "Chỉ có một điều là anh em phải ăn ở làm sao cho xứng với Tin Mừng của Đức Ki-tô. Như thế, dù tôi có đến thăm anh em hay vắng mặt đi nữa, tôi vẫn muốn được nghe người ta nói về anh em là anh em luôn đứng vững, cùng chung một tinh thần, một lòng một dạ cùng nhau chiến đấu vì đức tin mà Tin Mừng mang lại cho anh em."
+        },
+        {
+          "verse": 28,
+          "label": "28",
+          "header": "",
+          "text": "Về bất cứ điều gì, đừng sợ những kẻ chống đối anh em: đó là dấu cho thấy họ sẽ bị hư vong, còn đối với anh em, thì lại là dấu chỉ ơn cứu độ. Điều ấy là ân huệ Thiên Chúa ban."
+        },
+        {
+          "verse": 29,
+          "label": "29",
+          "header": "",
+          "text": "Quả thế, nhờ Đức Ki-tô, anh em đã được phúc chẳng những là tin vào Người, mà còn được chịu đau khổ vì Người."
+        },
+        {
+          "verse": 30,
+          "label": "30",
+          "header": "",
+          "text": "Nhờ vậy, anh em được tham dự cùng một cuộc chiến mà anh em đã thấy tôi phải đương đầu trước kia, và nay anh em nghe biết là tôi vẫn còn tiếp tục."
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "verse": 1,
+          "label": "1",
+          "header": "Duy trì sự hợp nhất trong tinh thần khiêm nhường",
+          "text": "Nếu quả thật sự liên kết với Đức Ki-tô đem lại cho chúng ta một niềm an ủi, nếu tình bác ái khích lệ chúng ta, nếu chúng ta được hiệp thông trong Thần Khí, nếu chúng ta sống thân tình và biết cảm thương nhau,"
+        },
+        {
+          "verse": 2,
+          "label": "2",
+          "header": "",
+          "text": "thì xin anh em hãy làm cho niềm vui của tôi được trọn vẹn, là hãy có cùng một cảm nghĩ, cùng một lòng mến, cùng một tâm hồn, cùng một ý hướng như nhau."
+        },
+        {
+          "verse": 3,
+          "label": "3",
+          "header": "",
+          "text": "Đừng làm chi vì ganh tị hay vì hư danh, nhưng hãy lấy lòng khiêm nhường mà coi người khác hơn mình."
+        },
+        {
+          "verse": 4,
+          "label": "4",
+          "header": "",
+          "text": "Mỗi người đừng tìm lợi ích cho riêng mình, nhưng hãy tìm lợi ích cho người khác."
+        },
+        {
+          "verse": 5,
+          "label": "5",
+          "header": "",
+          "text": "Giữa anh em với nhau, anh em hãy có những tâm tình như chính Đức Ki-tô Giê-su."
+        },
+        {
+          "verse": 6,
+          "label": "6",
+          "header": "",
+          "text": "Đức Giê-su Ki-tô vốn dĩ là Thiên Chúa mà không nghĩ phải nhất quyết duy trì địa vị ngang hàng với Thiên Chúa,"
+        },
+        {
+          "verse": 7,
+          "label": "7",
+          "header": "",
+          "text": "nhưng đã hoàn toàn trút bỏ vinh quang, mặc lấy thân nô lệ, trở nên giống phàm nhân, sống như người trần thế."
+        },
+        {
+          "verse": 8,
+          "label": "8",
+          "header": "",
+          "text": "Người lại còn hạ mình, vâng lời cho đến nỗi bằng lòng chịu chết, chết trên cây thập tự."
+        },
+        {
+          "verse": 9,
+          "label": "9",
+          "header": "",
+          "text": "Chính vì thế, Thiên Chúa đã siêu tôn Người và tặng ban danh hiệu trổi vượt trên muôn ngàn danh hiệu."
+        },
+        {
+          "verse": 10,
+          "label": "10",
+          "header": "",
+          "text": "Như vậy, khi vừa nghe danh thánh Giê-su, cả trên trời dưới đất và trong nơi âm phủ, muôn vật phải bái quỳ;"
+        },
+        {
+          "verse": 11,
+          "label": "11",
+          "header": "",
+          "text": "và để tôn vinh Thiên Chúa Cha, mọi loài phải mở miệng tuyên xưng rằng: “Đức Giê-su Ki-tô là Chúa.”"
+        },
+        {
+          "verse": 12,
+          "label": "12",
+          "header": "Lo sao cho được ơn cứu độ",
+          "text": "Ấy vậy, anh em thân mến, anh em là những người luôn luôn vâng phục không những khi tôi có mặt, mà nhất là bây giờ, khi tôi vắng mặt, anh em hãy biết run sợ mà gắng sức lo sao cho mình được cứu độ."
+        },
+        {
+          "verse": 13,
+          "label": "13",
+          "header": "",
+          "text": "Vì chính Thiên Chúa tác động đến ý chí cũng như hành động của anh em do lòng yêu thương của Người."
+        },
+        {
+          "verse": 14,
+          "label": "14",
+          "header": "",
+          "text": "Anh em hãy làm mọi việc mà đừng kêu ca hay phản kháng."
+        },
+        {
+          "verse": 15,
+          "label": "15",
+          "header": "",
+          "text": "Như thế, anh em sẽ trở nên trong sạch, không ai chê trách được điều gì, và sẽ trở nên những người con vẹn toàn của Thiên Chúa, giữa một thế hệ gian tà, sa đoạ. Giữa thế hệ đó, anh em phải chiếu sáng như những vì sao trên vòm trời,"
+        },
+        {
+          "verse": 16,
+          "label": "16",
+          "header": "",
+          "text": "là làm sáng tỏ Lời ban sự sống, để tôi được hiên ngang hãnh diện trong ngày Đức Ki-tô quang lâm, vì tôi đã không chạy uổng công và đã không lao nhọc vô ích."
+        },
+        {
+          "verse": 17,
+          "label": "17",
+          "header": "",
+          "text": "Nhưng nếu tôi phải đổ máu ra hợp làm một với hy lễ mà anh em lấy đức tin dâng lên Chúa, thì tôi vui mừng và cùng chia sẻ niềm vui với tất cả anh em."
+        },
+        {
+          "verse": 18,
+          "label": "18",
+          "header": "",
+          "text": "Anh em cũng vậy, anh em hãy vui lên và cùng chia sẻ niềm vui với tôi."
+        },
+        {
+          "verse": 19,
+          "label": "19",
+          "header": "Sứ mạng của ông Ti-mô-thê và ông Ê-páp-rô-đi-tô",
+          "text": "Nhờ Chúa Giê-su, tôi hy vọng có thể sớm cử anh Ti-mô-thê đến với anh em, để chính tôi cũng được an tâm vì được biết tin tức về anh em."
+        },
+        {
+          "verse": 20,
+          "label": "20",
+          "header": "",
+          "text": "Chẳng có ai khác cùng chia sẻ một tâm tình với tôi và tận tâm lo lắng cho anh em."
+        },
+        {
+          "verse": 21,
+          "label": "21",
+          "header": "",
+          "text": "Thật vậy, ai nấy đều tìm lợi ích cho mình, chứ không tìm lợi ích cho Đức Ki-tô Giê-su."
+        },
+        {
+          "verse": 22,
+          "label": "22",
+          "header": "",
+          "text": "Anh em biết: anh Ti-mô-thê đã chứng tỏ mình là người có giá trị, bởi vì anh ấy đã cùng với tôi phục vụ Tin Mừng, như con với cha."
+        },
+        {
+          "verse": 23,
+          "label": "23",
+          "header": "",
+          "text": "Vậy, tôi hy vọng sẽ cử anh ấy đi, ngay khi thấy rõ số phận tôi ra sao."
+        },
+        {
+          "verse": 24,
+          "label": "24",
+          "header": "",
+          "text": "Vả lại, nhờ ơn Chúa, tôi tin tưởng sắp được đích thân đến thăm anh em."
+        },
+        {
+          "verse": 25,
+          "label": "25",
+          "header": "",
+          "text": "Tôi nghĩ cần phải trả anh Ê-páp-rô-đi-tô về cho anh em. Anh ấy đã từng là một người anh em, một cộng sự viên, một chiến hữu của tôi, người mà anh em đã gửi đến giúp tôi trong lúc túng cực."
+        },
+        {
+          "verse": 26,
+          "label": "26",
+          "header": "",
+          "text": "Anh ấy rất mong mỏi gặp lại tất cả anh em, lo âu vì anh em đã biết tin anh lâm bệnh."
+        },
+        {
+          "verse": 27,
+          "label": "27",
+          "header": "",
+          "text": "Thật vậy, anh ấy ốm nặng gần chết; nhưng Thiên Chúa đã thương xót anh, không những thương xót anh mà còn thương xót cả tôi nữa, để tôi khỏi buồn phiền vì hết chuyện này đến chuyện khác."
+        },
+        {
+          "verse": 28,
+          "label": "28",
+          "header": "",
+          "text": "Do đó, tôi vội cho anh ấy trở về, để anh em được vui khi gặp lại anh, và chính tôi cũng bớt buồn phiền."
+        },
+        {
+          "verse": 29,
+          "label": "29",
+          "header": "",
+          "text": "Vì Chúa, anh em hãy hết sức vui mừng đón tiếp anh. Anh em hãy quý trọng những người như thế;"
+        },
+        {
+          "verse": 30,
+          "label": "30",
+          "header": "",
+          "text": "chính vì làm việc cho Đức Ki-tô mà anh đã suýt chết, đã liều mạng sống để thay thế anh em, khi anh em không đến giúp tôi được."
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "verse": 1,
+          "label": "1",
+          "header": "Con đường cứu độ",
+          "text": "Vả lại, thưa anh em, anh em hãy vui mừng vì Chúa. Viết đi viết lại cho anh em cũng bấy nhiêu điều, đối với tôi không phải là một gánh nặng, còn đối với anh em thì đó lại là một bảo đảm."
+        },
+        {
+          "verse": 2,
+          "label": "2",
+          "header": "",
+          "text": "Anh em hãy coi chừng quân chó má! Hãy coi chừng bọn thợ xấu! Hãy coi chừng những kẻ giả danh cắt bì!"
+        },
+        {
+          "verse": 3,
+          "label": "3",
+          "header": "",
+          "text": "Vì chúng ta mới thật là những người được cắt bì, những người thờ phượng Thiên Chúa nhờ Thần Khí của Người, những người hiên ngang hãnh diện vì Đức Ki-tô Giê-su, chứ không cậy vào xác thịt,"
+        },
+        {
+          "verse": 4,
+          "label": "4",
+          "header": "",
+          "text": "mặc dầu tôi đây, tôi có lý do để cậy vào xác thịt. Nếu ai khác có lý do để cậy vào xác thịt, thì tôi càng có lý do hơn:"
+        },
+        {
+          "verse": 5,
+          "label": "5",
+          "header": "",
+          "text": "tôi chịu cắt bì ngày thứ tám, thuộc dòng dõi Ít-ra-en, họ Ben-gia-min, là người Híp-ri, con của người Híp-ri; giữ luật thì đúng như một người Pha-ri-sêu;"
+        },
+        {
+          "verse": 6,
+          "label": "6",
+          "header": "",
+          "text": "nhiệt thành đến mức ngược đãi Hội Thánh; còn sống công chính theo Lề Luật, thì chẳng ai trách được tôi."
+        },
+        {
+          "verse": 7,
+          "label": "7",
+          "header": "",
+          "text": "Nhưng, những gì xưa kia tôi cho là có lợi, thì nay, vì Đức Ki-tô, tôi cho là thiệt thòi."
+        },
+        {
+          "verse": 8,
+          "label": "8",
+          "header": "",
+          "text": "Hơn nữa, tôi coi tất cả mọi sự là thiệt thòi, so với mối lợi tuyệt vời, là được biết Đức Ki-tô Giê-su, Chúa của tôi. Vì Người, tôi đành mất hết, và tôi coi tất cả như rác, để được Đức Ki-tô"
+        },
+        {
+          "verse": 9,
+          "label": "9",
+          "header": "",
+          "text": "và được kết hợp với Người. Được như vậy, không phải nhờ sự công chính của tôi, sự công chính do luật Mô-sê đem lại, nhưng nhờ sự công chính do lòng tin vào Đức Ki-tô, tức là sự công chính do Thiên Chúa ban, dựa trên lòng tin."
+        },
+        {
+          "verse": 10,
+          "label": "10",
+          "header": "",
+          "text": "Vấn đề là được biết chính Đức Ki-tô, nhất là biết Người quyền năng thế nào nhờ đã phục sinh, cùng được thông phần những đau khổ của Người, nhờ nên đồng hình đồng dạng với Người trong cái chết của Người,"
+        },
+        {
+          "verse": 11,
+          "label": "11",
+          "header": "",
+          "text": "với hy vọng có ngày cũng được sống lại từ trong cõi chết."
+        },
+        {
+          "verse": 12,
+          "label": "12",
+          "header": "",
+          "text": "Nói thế, không phải là tôi đã đoạt giải, hay đã nên hoàn thiện đâu; nhưng tôi đang cố gắng chạy tới, mong chiếm đoạt, bởi lẽ chính tôi đã được Đức Ki-tô Giê-su chiếm đoạt."
+        },
+        {
+          "verse": 13,
+          "label": "13",
+          "header": "",
+          "text": "Thưa anh em, tôi không nghĩ mình đã chiếm được rồi. Tôi chỉ chú ý đến một điều, là quên đi chặng đường đã qua, để lao mình về phía trước."
+        },
+        {
+          "verse": 14,
+          "label": "14",
+          "header": "",
+          "text": "Tôi chạy thẳng tới đích, để chiếm được phần thưởng từ trời cao Thiên Chúa dành cho kẻ được Người kêu gọi trong Đức Ki-tô Giê-su."
+        },
+        {
+          "verse": 15,
+          "label": "15",
+          "header": "",
+          "text": "Vậy tất cả chúng ta là những người hoàn thiện, chúng ta hãy nghĩ như vậy; và giả như có điểm nào anh em nghĩ khác, thì Thiên Chúa sẽ mặc khải cho anh em."
+        },
+        {
+          "verse": 16,
+          "label": "16",
+          "header": "",
+          "text": "Song, dù đạt tới đâu đi nữa, chúng ta cũng cứ theo hướng ấy mà đi."
+        },
+        {
+          "verse": 17,
+          "label": "17",
+          "header": "",
+          "text": "Thưa anh em, xin hãy cùng nhau bắt chước tôi, và chăm chú nhìn vào những ai sống theo gương chúng tôi để lại cho anh em."
+        },
+        {
+          "verse": 18,
+          "label": "18",
+          "header": "",
+          "text": "Vì, như tôi đã nói với anh em nhiều lần, và bây giờ tôi phải khóc mà nói lại, có nhiều người sống đối nghịch với thập giá Đức Ki-tô:"
+        },
+        {
+          "verse": 19,
+          "label": "19",
+          "header": "",
+          "text": "chung cục là họ sẽ phải hư vong. Chúa họ thờ là cái bụng, và cái họ lấy làm vinh quang lại là cái đáng hổ thẹn. Họ là những người chỉ nghĩ đến những sự thế gian."
+        },
+        {
+          "verse": 20,
+          "label": "20",
+          "header": "",
+          "text": "Còn chúng ta, quê hương chúng ta ở trên trời, và chúng ta nóng lòng mong đợi Đức Giê-su Ki-tô từ trời đến cứu chúng ta."
+        },
+        {
+          "verse": 21,
+          "label": "21",
+          "header": "",
+          "text": "Người có quyền năng khắc phục muôn loài, và sẽ dùng quyền năng ấy mà biến đổi thân xác yếu hèn của chúng ta nên giống thân xác vinh hiển của Người."
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "verse": 1,
+          "label": "1",
+          "header": "",
+          "text": "Bởi vậy, hỡi anh em thân mến lòng tôi hằng tưởng nhớ, anh em là niềm vui, là vinh dự của tôi. Anh em rất thân mến, anh em hãy kết hợp với Chúa mà sống vững vàng như vậy."
+        },
+        {
+          "verse": 2,
+          "label": "2",
+          "header": "Lời khuyên cuối cùng",
+          "text": "Tôi khuyên chị Ê-vô-đi-a và khuyên cả chị Xin-ti-khe nữa: xin hai chị sống hoà thuận với nhau trong Chúa."
+        },
+        {
+          "verse": 3,
+          "label": "3",
+          "header": "",
+          "text": "Tôi xin cả anh Xi-di-gô nữa, người bạn chân thành đã đồng lao cộng khổ với tôi, xin anh giúp đỡ các chị ấy. Các chị đã giúp tôi chiến đấu cho Tin Mừng, cũng như anh Cơ-lê-men-tê và các cộng sự viên khác mà tên tuổi đã được ghi trong Sổ Trường Sinh."
+        },
+        {
+          "verse": 4,
+          "label": "4",
+          "header": "",
+          "text": "Anh em hãy vui luôn trong niềm vui của Chúa. Tôi nhắc lại: vui lên anh em!"
+        },
+        {
+          "verse": 5,
+          "label": "5",
+          "header": "",
+          "text": "Sao cho mọi người thấy anh em sống hiền hoà rộng rãi, Chúa đã gần đến."
+        },
+        {
+          "verse": 6,
+          "label": "6",
+          "header": "",
+          "text": "Anh em đừng lo lắng gì cả, nhưng trong mọi hoàn cảnh, anh em cứ đem lời cầu khẩn, van xin và tạ ơn, mà giãi bày trước mặt Thiên Chúa những điều anh em thỉnh nguyện."
+        },
+        {
+          "verse": 7,
+          "label": "7",
+          "header": "",
+          "text": "Và bình an của Thiên Chúa là bình an vượt lên trên mọi hiểu biết, sẽ giữ cho lòng trí anh em được kết hợp với Đức Ki-tô Giê-su."
+        },
+        {
+          "verse": 8,
+          "label": "8",
+          "header": "",
+          "text": "Ngoài ra, thưa anh em, những gì là chân thật, cao quý, những gì là chính trực tinh tuyền, những gì là đáng mến và đem lại danh thơm tiếng tốt, những gì là đức hạnh, đáng khen, thì xin anh em hãy để ý."
+        },
+        {
+          "verse": 9,
+          "label": "9",
+          "header": "",
+          "text": "Những gì anh em đã học hỏi, đã lãnh nhận, đã nghe, đã thấy ở nơi tôi, thì hãy đem ra thực hành, và Thiên Chúa là nguồn bình an sẽ ở với anh em."
+        },
+        {
+          "verse": 10,
+          "label": "10",
+          "header": "Cám ơn vì được cứu trợ",
+          "text": "Nhờ Chúa, tôi rất vui mừng vì cuối cùng thấy tình cảm của anh em đối với tôi lại thắm thiết. Tình cảm đó vẫn sống động, nhưng anh em chỉ thiếu dịp tỏ ra."
+        },
+        {
+          "verse": 11,
+          "label": "11",
+          "header": "",
+          "text": "Không phải vì thiếu thốn mà tôi nói thế, bởi lẽ tôi đã học sống tự lập trong bất cứ hoàn cảnh nào."
+        },
+        {
+          "verse": 12,
+          "label": "12",
+          "header": "",
+          "text": "Tôi sống thiếu thốn cũng được, mà sống dư dật cũng được. Trong mọi hoàn cảnh, no hay đói, dư dật hay túng bấn, tôi đã tập quen cả."
+        },
+        {
+          "verse": 13,
+          "label": "13",
+          "header": "",
+          "text": "Với Đấng ban sức mạnh cho tôi, tôi chịu được hết."
+        },
+        {
+          "verse": 14,
+          "label": "14",
+          "header": "",
+          "text": "Tuy nhiên, anh em đã chia sẻ với tôi, khi tôi gặp cơn quẫn bách, như thế là phải."
+        },
+        {
+          "verse": 15,
+          "label": "15",
+          "header": "",
+          "text": "Chính anh em, những người thành Phi-líp-phê, anh em biết là trong giai đoạn tôi bắt đầu rao giảng Tin Mừng, lúc rời khỏi Ma-kê-đô-ni-a, không một Hội Thánh nào đã đóng góp vào các khoản chi thu của tôi, chỉ có anh em thôi;"
+        },
+        {
+          "verse": 16,
+          "label": "16",
+          "header": "",
+          "text": "bởi vì ngay khi tôi còn ở Thê-xa-lô-ni-ca, đôi lần anh em đã gửi cho tôi những gì tôi cần dùng."
+        },
+        {
+          "verse": 17,
+          "label": "17",
+          "header": "",
+          "text": "Điều tôi tìm kiếm không phải là quà tặng, mà là những gì sinh hoa kết quả dồi dào cho anh em."
+        },
+        {
+          "verse": 18,
+          "label": "18",
+          "header": "",
+          "text": "Tôi có đủ mọi thứ cần dùng, lại còn dư dật nữa là khác. Tôi rất đầy đủ, kể từ khi nhận được những gì anh em gửi đến tôi qua tay anh Ê-páp-rô-đi-tô. Quà anh em tặng cho tôi đó, chẳng khác nào hương thơm, lễ vật đẹp lòng Thiên Chúa và được Người chấp nhận."
+        },
+        {
+          "verse": 19,
+          "label": "19",
+          "header": "",
+          "text": "Thiên Chúa của tôi sẽ thoả mãn mọi nhu cầu của anh em một cách tuyệt vời, theo sự giàu sang của Người trong Đức Ki-tô Giê-su."
+        },
+        {
+          "verse": 20,
+          "label": "20",
+          "header": "",
+          "text": "Xin tôn vinh Thiên Chúa là Cha chúng ta, đến muôn thuở muôn đời! A-men."
+        },
+        {
+          "verse": 21,
+          "label": "21",
+          "header": "Những lời thăm hỏi và cầu chúc cuối cùng",
+          "text": "Cho tôi gửi lời chào từng người một thuộc dân thánh trong Đức Ki-tô Giê-su. Các anh em đang ở với tôi gửi lời chào anh em."
+        },
+        {
+          "verse": 22,
+          "label": "22",
+          "header": "",
+          "text": "Mọi người thuộc dân thánh, nhất là những người phục vụ trong cung điện hoàng đế Xê-da, cũng gửi lời chào anh em."
+        },
+        {
+          "verse": 23,
+          "label": "23",
+          "header": "",
+          "text": "Cầu chúc cho tâm hồn anh em được đầy tràn ân sủng của Chúa Giê-su Ki-tô."
+        }
+      ]
+    }
+  ]
+}
