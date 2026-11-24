@@ -368,7 +368,7 @@ def _parse_cli_args(argv: Optional[List[str]] = None) -> argparse.Namespace:
 
 
 def main(
-    version: KtcgVersion = KtcgVersion.KT2011,
+    version: KTCGKPV_Version = KTCGKPV_Version.KT2011,
     include_prologue: bool = False,
     force: bool = False,
 ) -> None:
